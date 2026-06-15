@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+data/*.log
+data/bids_mock.csv
+data/smoke*.csv
+report.html
+.DS_Store
+ppt/
+*.pdf
